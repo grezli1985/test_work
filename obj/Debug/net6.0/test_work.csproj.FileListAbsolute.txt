@@ -1,0 +1,15 @@
+/Users/sergey/учеба/Test_work/test_work/bin/Debug/net6.0/test_work
+/Users/sergey/учеба/Test_work/test_work/bin/Debug/net6.0/test_work.deps.json
+/Users/sergey/учеба/Test_work/test_work/bin/Debug/net6.0/test_work.runtimeconfig.json
+/Users/sergey/учеба/Test_work/test_work/bin/Debug/net6.0/test_work.dll
+/Users/sergey/учеба/Test_work/test_work/bin/Debug/net6.0/test_work.pdb
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.csproj.AssemblyReference.cache
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.AssemblyInfoInputs.cache
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.AssemblyInfo.cs
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.csproj.CoreCompileInputs.cache
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.dll
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/refint/test_work.dll
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.pdb
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/test_work.genruntimeconfig.cache
+/Users/sergey/учеба/Test_work/test_work/obj/Debug/net6.0/ref/test_work.dll

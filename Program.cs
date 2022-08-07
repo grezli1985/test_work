@@ -19,3 +19,15 @@ void Zadacha()
     Console.WriteLine();
 }
 
+void PrintArray(string[] array)
+{
+    Console.WriteLine();
+    Console.Write("Вывод массива");
+    Console.WriteLine();
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+    Console.WriteLine();
+}
+
